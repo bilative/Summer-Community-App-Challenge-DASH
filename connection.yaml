@@ -1,0 +1,5 @@
+user: 'dashuser' # u can specify use and the pass
+password: 'your_password'
+host: 'localhost' #Or the ip of the psotgres machine
+port: 5432
+database: 'dashapp'
